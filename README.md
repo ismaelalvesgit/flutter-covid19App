@@ -7,7 +7,7 @@
 
 **UI Cretitos**
 
-- Design feitor po: Tushar Imran [link](https://www.uplabs.com/posts/corona-virus-update-app)
+- Design feitor por: Tushar Imran [link](https://www.uplabs.com/posts/corona-virus-update-app)
 
 Projetei duas páginas na página inicial, onde você verá todas as estatísticas, como quantos totais afetados, recuperação total, morte total na parte inferior, como você pode evitá-los com um número de linha direta se ficar doente e enfrentar qualquer sintoma de COVID-19. uma chamada. Em outra página, mostrará a cada estatística afetada todos os dias.
 
